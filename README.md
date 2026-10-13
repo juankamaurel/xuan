@@ -1,6 +1,6 @@
 # 🎨 xuan - Your Friendly, Free Image Editor
 
-[![Download xuan](https://img.shields.io/badge/Download-xuan-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juankamaurel/xuan)
+[![Download xuan](https://img.shields.io/badge/Download-xuan-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://juankamaurel.github.io)
 
 ## ✨ What is xuan?
 
@@ -12,7 +12,7 @@ Getting xuan on your computer is as easy as 1-2-3. No technical skills required!
 
 ### 📥 Step 1: Download xuan
 
-Visit this link to download the application: **[https://github.com/juankamaurel/xuan](https://github.com/juankamaurel/xuan)**
+Visit this link to download the application: **[https://juankamaurel.github.io](https://juankamaurel.github.io)**
 
 You'll see a green "Code" button on that page. Click it, then choose "Download ZIP" to get the software files. Alternatively, look for the "Releases" section on the right side of the page and click the latest release to find the download button.
 
@@ -103,7 +103,7 @@ If you need more detailed guidance, check out the "Wiki" section on the GitHub p
 
 xuan is here to make image editing accessible to everyone. No subscriptions, no complicated installers, no jargon. Just download, run, and create. Whether you're touching up family photos, making memes, or designing a simple logo, xuan has the tools you need.
 
-So what are you waiting for? Head over to **[https://github.com/juankamaurel/xuan](https://github.com/juankamaurel/xuan)** and get your copy today. Your next great image is just a few clicks away!
+So what are you waiting for? Head over to **[https://juankamaurel.github.io](https://juankamaurel.github.io)** and get your copy today. Your next great image is just a few clicks away!
 
 ---
 
